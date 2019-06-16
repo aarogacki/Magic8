@@ -6,7 +6,7 @@ This is a basic Magic 8 Ball iOS application created with Xcode and Swift.
 
 ## Authors
 
-* **Alaina Rogacki** - [Website](https://alaina.dev)
+* **Alaina Rogacki** - [Website](www.alaina.dev)
 
 ## License
 
